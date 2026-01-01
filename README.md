@@ -1,10 +1,10 @@
-#🧠 ATS Resume Checker
+# 🧠 ATS Resume Checker
 
-#AI-Powered Resume Optimization Platform
+# AI-Powered Resume Optimization Platform
 
 A production-ready Applicant Tracking System (ATS) compatibility analyzer that evaluates resumes against job descriptions using AI, highlights missing keywords, rewrites weak bullet points, and provides recruiter-grade hiring insights.
 
-#🚀 What is ATS Resume Checker?
+# 🚀 What is ATS Resume Checker?
 
 ATS Resume Checker is a web-based AI platform that simulates how modern Applicant Tracking Systems (ATS) and recruiters evaluate resumes.
 
@@ -149,6 +149,7 @@ Vercel / Netlify / Nginx supported frontend
 
 Your ATS API returns structured intelligence:
 
+```
 {
   "ats_score": 85,
   "skill_match": 90,
@@ -164,7 +165,7 @@ Your ATS API returns structured intelligence:
     "final_verdict": "Strong Fit"
   }
 }
-
+```
 
 This allows the UI to render recruiter-grade dashboards.
 
@@ -193,6 +194,7 @@ Results returned to frontend
 User sees ATS-style dashboard
 
 📦 Installation
+
 ```bash 
 git clone https://github.com/yourusername/ats-resume-checker
 cd ats-resume-checker
