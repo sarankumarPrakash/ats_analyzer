@@ -2,6 +2,8 @@
 
 # AI-Powered Resume Optimization Platform
 
+<img width="2880" height="2844" alt="localhost_5174_" src="https://github.com/user-attachments/assets/41029589-487f-41ef-99f9-4ef97fa59ebd" />
+
 A production-ready Applicant Tracking System (ATS) compatibility analyzer that evaluates resumes against job descriptions using AI, highlights missing keywords, rewrites weak bullet points, and provides recruiter-grade hiring insights.
 
 # 🚀 What is ATS Resume Checker?
@@ -253,3 +255,6 @@ All rights reserved.
 
 Developed by Saran
 AI Automation | ATS Systems | Resume Intelligence
+
+
+
